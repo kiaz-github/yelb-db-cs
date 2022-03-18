@@ -1,5 +1,4 @@
 FROM postgres:14.2
-MAINTAINER massimo@it20.info
 
 WORKDIR /
 
